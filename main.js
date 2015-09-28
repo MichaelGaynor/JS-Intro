@@ -31,11 +31,11 @@ var low  = 10;
 
 var math = high - low;
 // Q: What is `math` set to?
-// A:
+// A: The number value 40
 
 math = high - "5";
 // Q: What is `math` set to?
-// A:
+// A: the number value 45
 
 
 /* =========================================================
