@@ -49,7 +49,7 @@ var born = 1983;
 var today = 2015;
 
 // Answers Below:
-var age = today - born;
+var age = "Tim is " + (today - born) + " years old";
 
 
 // Store some information following in variables.
